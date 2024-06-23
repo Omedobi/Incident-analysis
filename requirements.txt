@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlite3
+sqlalchemy
+pymysql
+scikit-learn
+scikit-optimize
+pyarrow
+wordcloud
