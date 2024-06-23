@@ -94,7 +94,7 @@ This facet grid shows the age distribution for different genders and their parti
 - Gender and Age Patterns: I observed how age distribution varies between genders and whether they participated in hostilities.
 - Policy and Support Services: These insights can inform gender-specific policies and support services, addressing the needs of different groups based on their demographic characteristics.![chart showing facet frid of age distribution](image/Hostilities_by_gender.png)
 
-### SQL SECTION.
+#### SQL SECTION.
 
 I initiated the process by establishing an SQLAlchemy engine to manage connections to my SQLite database, which is stored in the `RedBank` directory on my computer. After configuring the engine, I proceeded to activate the SQL extension in my Jupyter Notebook. This activation permitted the direct execution of SQL queries within the notebook's cells.
 
@@ -104,7 +104,7 @@ Subsequently, I incorporated a cleaned dataset into the database using the `%sql
 
 To conclude, I conducted a detailed query to examine the distribution of critical variables such as gender, age group, injury type, ammunition type, and the district of residence. I prioritized this analysis by sorting the data in descending order based on injury type, which allowed me to focus on the most severe cases by displaying the top five records. This methodological approach ensured that I maintained a clear and comprehensive overview of the pertinent data, essential for informed decision-making and analysis.
 
-### Summary of Insights:
+## Summary of Insights:
 
 The visualizations collectively provide a multifaceted view of the incident data, highlighting key aspects such as the frequency and type of incidents over time, the types of injuries inflicted, and the participation in hostilities.
 This data could be critical for analyses focused on conflict intensity, trends in violence, and the assessment of risks associated with different types of ammunition and actions. The temporal and categorical data could aid in developing targeted interventions or policies aimed at reducing incidents or mitigating their severity.
