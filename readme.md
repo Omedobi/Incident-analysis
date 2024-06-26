@@ -1,3 +1,4 @@
+![middle-east-crisis]("image/israeli-palestine-conflict.jpg")
 # Data Analysis and Visualization Project
 
 ### Overview
