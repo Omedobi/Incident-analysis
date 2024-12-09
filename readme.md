@@ -1,9 +1,10 @@
 ![middle-east-crisis](image/israeli-palestine-conflict.jpg)
-# Data Analysis and Visualization Project
+# Incident Analysis in the Middle-east
 
 ### Overview
 
-In this assessment, I focused on data wrangling, analysis, and visualization of a dataset detailing various incidents. The dataset features several columns, including name, event date, age, citizenship, event location, gender, participation in hostilities, place of residence, type of injury, ammunition used, and others. My objective was to clean the data and create insightful visualizations to uncover patterns and distributions within the data.
+In this project, it involved data wrangling, analysis, feature engineering and visualization of the dataset detailing various incidents. The dataset features several columns, including name, event date, age, citizenship, event location, gender, participation in hostilities, place of residence, type of injury, ammunition used, and others. 
+My objective was to clean the data and create insightful visualizations to uncover patterns and distributions within the data. Lastly perform a machine task ----
 
 ### Data Wrangling
 
