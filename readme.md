@@ -127,11 +127,11 @@ Data-Driven Policy Making: These insights are crucial for policymakers, humanita
 - create virtual environment
     ```bash
      python -m venv myenv
-     - .\venv\Scripts\activate
+     - myenv\Scripts\activate
     ```
 - Activate the virtual environment
     ```bash
-    - Activate the virtual environment - .\venv\Scripts\activate
+    - Activate the virtual environment - myenv\Scripts\activate
     ```
 2. **Install Dependencies**:
     - Install necessary libraries with:
@@ -139,5 +139,5 @@ Data-Driven Policy Making: These insights are crucial for policymakers, humanita
       pip install -r requirements.txt
       ```
 3. **Execute the Notebook**:
-    - Open `RedBank_Assessment.ipynb` in Jupyterlab or other IDE.
+    - Open `incident-analysis.ipynb` in Jupyterlab or other IDE.
     - Execute the notebook cells in sequence to perform the analysis.
