@@ -1,10 +1,9 @@
 ![middle-east-crisis](image/israeli-palestine-conflict.jpg)
-# Incident Analysis in the Middle-east
+# Data Analysis and Visualization Project
 
 ### Overview
 
-In this project, it involved data wrangling, analysis, feature engineering and visualization of the dataset detailing various incidents. The dataset features several columns, including name, event date, age, citizenship, event location, gender, participation in hostilities, place of residence, type of injury, ammunition used, and others. 
-My objective was to clean the data and create insightful visualizations to uncover patterns and distributions within the data. Lastly perform a machine task ----
+In this project, I focused on data wrangling, analysis, and visualization of a dataset detailing various incidents. The dataset features several columns, including name, event date, age, citizenship, event location, gender, participation in hostilities, place of residence, type of injury, ammunition used, and others. My objective was to clean the data and create insightful visualizations to uncover patterns and distributions within the data.
 
 ### Data Wrangling
 
@@ -127,11 +126,11 @@ Data-Driven Policy Making: These insights are crucial for policymakers, humanita
 - create virtual environment
     ```bash
      python -m venv myenv
-     - myenv\Scripts\activate
+     - .\myenv\Scripts\activate
     ```
 - Activate the virtual environment
     ```bash
-    - Activate the virtual environment - myenv\Scripts\activate
+    - Activate the virtual environment - .\myenv\Scripts\activate
     ```
 2. **Install Dependencies**:
     - Install necessary libraries with:
@@ -139,5 +138,5 @@ Data-Driven Policy Making: These insights are crucial for policymakers, humanita
       pip install -r requirements.txt
       ```
 3. **Execute the Notebook**:
-    - Open `incident-analysis.ipynb` in Jupyterlab or other IDE.
+    - Open `incent-analysis.ipynb` in Jupyterlab or other IDE.
     - Execute the notebook cells in sequence to perform the analysis.

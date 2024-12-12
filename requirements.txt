@@ -13,3 +13,5 @@ sql
 scikit-optimize==0.10.2
 xgboost
 lightgbm
+xgboost[dask]  # For distributed GPU training
+
